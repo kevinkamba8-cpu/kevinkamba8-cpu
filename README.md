@@ -7,7 +7,7 @@
  - [Group Assignments](https://github.com/kevinkamba8-cpu/group-assignment-) 
  - [Identity Lifecycle](https://github.com/kevinkamba8-cpu/identity-lifecycle-) 
  - [Audit Logs](https://github.com/kevinkamba8-cpu/audit-logs) 
- - [Sign-In Logs]() 
+ - [Sign-In Logs](https://github.com/kevinkamba8-cpu/sign-in-logs) 
  - [Authentication]() 
  - [Deployment, Networking, Troubleshooting]() 
  - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
