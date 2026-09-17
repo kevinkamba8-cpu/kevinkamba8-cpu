@@ -12,7 +12,7 @@
  - [Deployment, Networking, Troubleshooting](https://github.com/kevinkamba8-cpu/deployment-networking-troubleshooting) 
  - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/kevinkamba8-cpu/creating-resource-group-deploying-virtual-machines-and-RDP)
  - [Creating and Managing Local Users](https://github.com/kevinkamba8-cpu/creating-and-managing-local-users) 
- - [Troubleshooting Network Connectivity]() 
+ - [Troubleshooting Network Connectivity](https://github.com/kevinkamba8-cpu/troubleshooting-network-connectivity) 
  - [Managing Windows Updates]() 
  - [Software Installation]() 
  - [Print Queue]() 
