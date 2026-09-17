@@ -15,7 +15,7 @@
  - [Troubleshooting Network Connectivity](https://github.com/kevinkamba8-cpu/troubleshooting-network-connectivity) 
  - [Managing Windows Updates](https://github.com/kevinkamba8-cpu/managing-windows-updates) 
  - [Software Installation](https://github.com/kevinkamba8-cpu/software-installation-) 
- - [Print Queue]() 
+ - [Print Queue](https://github.com/kevinkamba8-cpu/print-queue-) 
  - [Credential Manager and Cache]() 
  - [PowerShell]()
 - <b>Ticketing System</b>
