@@ -14,7 +14,7 @@
  - [Creating and Managing Local Users](https://github.com/kevinkamba8-cpu/creating-and-managing-local-users) 
  - [Troubleshooting Network Connectivity](https://github.com/kevinkamba8-cpu/troubleshooting-network-connectivity) 
  - [Managing Windows Updates](https://github.com/kevinkamba8-cpu/managing-windows-updates) 
- - [Software Installation]() 
+ - [Software Installation](https://github.com/kevinkamba8-cpu/software-installation-) 
  - [Print Queue]() 
  - [Credential Manager and Cache]() 
  - [PowerShell]()
