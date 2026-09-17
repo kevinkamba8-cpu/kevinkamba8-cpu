@@ -10,7 +10,7 @@
  - [Sign-In Logs](https://github.com/kevinkamba8-cpu/sign-in-logs) 
  - [Authentication](https://github.com/kevinkamba8-cpu/authentication) 
  - [Deployment, Networking, Troubleshooting](https://github.com/kevinkamba8-cpu/deployment-networking-troubleshooting) 
- - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+ - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/kevinkamba8-cpu/creating-resource-group-deploying-virtual-machines-and-RDP)
  - [Creating and Managing Local Users]() 
  - [Troubleshooting Network Connectivity]() 
  - [Managing Windows Updates]() 
