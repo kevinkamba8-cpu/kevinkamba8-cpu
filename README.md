@@ -4,7 +4,7 @@
  - [Creating User's in Entra ID](https://github.com/kevinkamba8-cpu/create-user) 
  - [Cloud Provisioning - P2 Licensing](https://github.com/kevinkamba8-cpu/cloud-provisioning-and-p2-licensing-) 
  - [Role Assignments](https://github.com/kevinkamba8-cpu/role-assignment-) 
- - [Group Assignments]() 
+ - [Group Assignments](https://github.com/kevinkamba8-cpu/group-assignment-) 
  - [Identity Lifecycle]() 
  - [Audit Logs]() 
  - [Sign-In Logs]() 
