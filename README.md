@@ -6,7 +6,7 @@
  - [Role Assignments](https://github.com/kevinkamba8-cpu/role-assignment-) 
  - [Group Assignments](https://github.com/kevinkamba8-cpu/group-assignment-) 
  - [Identity Lifecycle](https://github.com/kevinkamba8-cpu/identity-lifecycle-) 
- - [Audit Logs]() 
+ - [Audit Logs](https://github.com/kevinkamba8-cpu/audit-logs) 
  - [Sign-In Logs]() 
  - [Authentication]() 
  - [Deployment, Networking, Troubleshooting]() 
